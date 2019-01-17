@@ -30,9 +30,9 @@ public class Calculator {
                 result = first * second;
                 break;
 
-            case '/':
+            /*case '/':
                 result = first / second;
-                break;
+                break;*/
 
             // operator doesn't match any case constant (+, -, *, /)
             default:
